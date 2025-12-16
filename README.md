@@ -61,10 +61,6 @@ Atuar como **Desenvolvedor Full Stack**, aplicando boas práticas de desenvolvim
     <img width="30px" title="LinkedIn"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/JvFortunato" target="_blank">
-    <img width="30px" title="GitHub"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:jvfortunato.dev@gmail.com">
     <img width="30px" title="Email"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
