@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a>
     <img 
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=3B8B9B&center=true&vCenter=true&width=435&lines=Jo%C3%A3o+Victor+Fortunato" 
       alt="Typing SVG" 
@@ -28,14 +28,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img title="MySQL" width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-</p>
-
-<p align="center">
-  <img 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRhbzJiYzR4dmhuNzJscndoY3Rpb3Fra3VrNnQ5eGtwajB5b2hveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yyqOUPn5souNBSHUnU/giphy.gif" 
-    width="45" 
-    alt="divider"
-  />
 </p>
 
 ### 🫡 Sobre mim
