@@ -1,5 +1,5 @@
 <p align="center">
-  <a>
+  <a href="#">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=3B8B9B&center=true&vCenter=true&width=435&lines=Jo%C3%A3o+Victor+Fortunato" 
       alt="Typing SVG" 
