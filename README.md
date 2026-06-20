@@ -1,60 +1,168 @@
-<p align="center">
-  <a href="#">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=3B8B9B&center=true&vCenter=true&width=435&lines=Jo%C3%A3o+Victor+Fortunato" 
-      alt="Typing SVG" 
-    />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FAFAFA,50:E8E8E8,100:CFCFCF&height=180&section=header"/>
 
-<p align="center">
-  <strong>Desenvolvedor Full Stack</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  <img title="HTML" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img title="CSS" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img title="JavaScript" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img title="React Native" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img title="Bootstrap" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img title="PHP" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img title="Git" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img title="MySQL" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-</p>
+<img src="https://matheuschiodi.github.io/Portfolio/logo.png" width="150"/>
 
-### 🫡 Sobre mim
+# João Victor Fortunato
 
-Sou formado em Logística e atualmente curso Desenvolvimento Full Stack pela Estácio. Tenho 23 anos e moro em Duque de Caxias (RJ).
+**Full Stack & Mobile Developer**
 
-Sou entusiasta da área de tecnologia e estou em constante evolução nos estudos de programação e desenvolvimento de sistemas. Tenho foco na criação de soluções completas, atuando tanto no back-end quanto no front-end, sempre priorizando eficiência, escalabilidade e boa integração entre sistemas.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&repeat=true&width=700&lines=Mobile+Developer;React+%7C+React+Native+%7C+PHP+%7C+Node.js+%7C+SQL;10%2B+Projects+Successfully+Delivered;Building+Scalable+Web+and+Mobile+Applications;Transforming+Ideas+into+Digital+Products)
 
-### 👜 Profissão
+<br/>
 
-Atualmente atuo como Líder de Equipe na Comercial Milano Brasil e estou em processo de transição de carreira para Desenvolvimento de Software.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF5555?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-chiodi/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF5555?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MChiodiDev)
+[![Play Store](https://img.shields.io/badge/Play_Store-FF5555?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8115131743129012258)
+[![Email](https://img.shields.io/badge/Email-FF5555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mchiodidev@gmail.com)
 
-Já faço parte do time de Desenvolvimento das empresas Milano e Agile, contribuindo no desenvolvimento de sistemas integrados, participação em melhorias contínuas e implementação de soluções tecnológicas voltadas às necessidades do negócio.
+<br/>
 
-### 🎯 Objetivo Profissional
+![Profile Views](https://komarev.com/ghpvc/?username=MatheusChiodi&style=flat-square&color=FF5555)
+![Followers](https://img.shields.io/github/followers/MatheusChiodi?style=flat-square&color=FF5555&labelColor=1a1a2e)
 
-Atuar como **Desenvolvedor Full Stack**, aplicando boas práticas de desenvolvimento, criando soluções eficientes e evoluindo constantemente como profissional de tecnologia.
+</div>
 
-##
+---
 
-<p align="center">
-  <a href="https://linkedin.com/in/jvfortunato" target="_blank">
-    <img width="30px" title="LinkedIn"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:jvfortunato.dev@gmail.com">
-    <img width="30px" title="Email"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
-  </a>
-</p>
+## About Me
+
+```javascript
+const joaoVictor = {
+    role: "Development Analyst",
+    company: "Comercial Milano Brasil",
+    location: "Brazil",
+    
+    expertise: ["React.js", "React Native", "Laravel", "Node.js", 
+                "PHP", "Javascript" "SQL"]
+};
+```
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Main Technologies
+<img src="https://skillicons.dev/icons?i=react,vue,angular,php,java,mysql&theme=dark" />
+
+### Also Work With
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css,tailwind,git,docker,vscode,figma&theme=dark" />
+
+</div>
+
+---
+
+## Stats
+
+<div align="center">
+
+| Apps Published | Projects | Certifications | VS Code Extensions |
+|:---:|:---:|:---:|:---:|
+| **7+** | **30+** | **6** | **2** |
+| Play Store | Web & Mobile | DIO, Santander | Marketplace |
+
+</div>
+
+---
+
+## Featured Projects
+
+### Mobile Apps
+
+> All apps built with **React Native** + **TypeScript** + **Expo**
+
+| App | Description |
+|:----|:------------|
+| **[Bibliotrack](https://play.google.com/store/apps/details?id=com.matheuschiodi.Bibliotrack)** | Reading manager with goals, quotes & library tracking |
+| **[FitForge](https://play.google.com/store/apps/details?id=com.matheuschiodi.FitForge)** | Workout companion with hydration & performance history |
+| **[Futuro Garantido](https://play.google.com/store/apps/details?id=com.matheuschiodi.FuturoGarantido)** | Academic productivity with smart schedules |
+| **[Gerenciador de Cartões](https://play.google.com/store/apps/details?id=com.matheuschiodi.Invest)** | Offline-first financial control with dashboards |
+| **[Pomodoro Prime Timer](https://play.google.com/store/apps/details?id=com.matheuschiodi.PomodoroPrimeTimer)** | Productivity timer with customizable cycles |
+| **[Jogos para Dois](https://play.google.com/store/apps/details?id=com.matheuschiodi.dualgame)** | Collection of casual minigames for two players |
+
+<br/>
+
+### Web Projects
+
+| Project | Stack | Link |
+|:--------|:------|:----:|
+| **Move Store** - E-commerce with cart & checkout | React, TypeScript | [Demo](https://move-store.vercel.app/) |
+| **Sec Security** - Data protection platform | React, TypeScript | [Demo](https://mchiodi-security-feed.vercel.app/) |
+| **MChiodi Tools** - Dev utilities & generators | React, Vite | [Demo](https://mchiodi-tools.vercel.app/) |
+| **InfraDraw** - Visual diagram editor | React, Tailwind | [Demo](https://mchiodi-infradraw.vercel.app/) |
+| **MChiodi Focus** - Productivity hub | React, TypeScript | [Demo](https://mchiodi-focus.vercel.app/) |
+| **GuitarTuner** - Real-time frequency tuner | Angular | [Demo](https://matheuschiodi.github.io/MChiodi-GuitarTuner/) |
+
+<br/>
+
+### VS Code Extensions
+
+| Extension | Description | Link |
+|:----------|:------------|:----:|
+| **Hydration Reminder** | Smart hydration reminders for devs | [Install](https://marketplace.visualstudio.com/items?itemName=MChiodi.hydration-reminder) |
+| **Snake in VSCode** | Classic snake game in your editor | [Install](https://marketplace.visualstudio.com/items?itemName=MChiodi.snake-in-vscode) |
+
+---
+
+## GitHub Analytics
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusChiodi&theme=dark&hide_border=true&stroke=FF5555&ring=FF5555&fire=FF8C55&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF5555&sideLabels=FF5555&dates=8b949e&background=0d1117"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusChiodi&bg_color=0d1117&color=FF5555&line=FF5555&point=ffffff&area=true&area_color=FF5555&hide_border=true"/>
+
+</div>
+
+---
+
+## Certifications
+
+<div align="center">
+
+| Certificate | Issuer |
+|:------------|:------:|
+| DIO Campus Expert | DIO |
+| Santander Tech+ Back-End | ADA Tech & Santander |
+| AI Fundamentals | Santander |
+| React Native Training | DIO |
+| Node.js Fundamentals | DIO |
+| Orange Tech 2023 | Inter |
+
+</div>
+
+---
+
+## Career
+
+| Period | Company | Role |
+|:-------|:--------|:-----|
+| 2025 - Now | **Move Mais TAG de Pedágio** | Development Analyst Front-end |
+| 2025 - Now | **MChiodi** | Founder & Content Creator |
+| 2021 - 2025 | **FI Sistemas** | Full Stack Developer |
+| 2017 - 2021 | **IFSP Araraquara** | Technical Education |
+
+---
+
+<div align="center">
+
+### Let's Connect!
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5555?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mchiodi.vercel.app/)
+[![YouTube](https://img.shields.io/badge/Subscribe-FF5555?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MChiodiDev)
+[![Play Store](https://img.shields.io/badge/My_Apps-FF5555?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=8802139563269981586)
+
+<br/>
+
+**"Code with passion, build with purpose!"**
+
+<br/>
+
+![Made with](https://img.shields.io/badge/Made_with_%E2%9D%A4%EF%B8%8F_and_%E2%98%95-FF5555?style=flat-square)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5555,50:FF8C55,100:FF5555&height=120&section=footer"/>
