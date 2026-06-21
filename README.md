@@ -8,7 +8,7 @@
 
 **Full Stack & Mobile Developer**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&repeat=true&width=700&lines=Mobile+Developer;React+%7C+React+Native+%7C+PHP+%7C+Node.js+%7C+SQL)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&repeat=true&width=700&lines=Mobile+Developer;React+%7C+React+Native+%7CTypeScript+%7C+PHP+%7C+Node.js+%7C+SQL)
 
 <br/>
 
@@ -60,7 +60,7 @@ const joaoVictor = {
 | Applications created | Projects and participations |
 |:---:|:---:|
 | **4+** | **3015+** |
-| Play Store | Web & Mobile |
+| Builds | Web & Mobile |
 
 </div>
 
