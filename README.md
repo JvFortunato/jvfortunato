@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://matheuschiodi.github.io/Portfolio/logo.png" width="150"/>
+<img src="logo.png" alt="Minha logo" width="150"/>
 
 # João Victor Fortunato
 
@@ -12,15 +12,13 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF5555?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-chiodi/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF5555?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MChiodiDev)
-[![Play Store](https://img.shields.io/badge/Play_Store-FF5555?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8115131743129012258)
-[![Email](https://img.shields.io/badge/Email-FF5555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mchiodidev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-94A3B8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvfortunato/)
+[![Email](https://img.shields.io/badge/Email-94A3B8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvfortunato.dev@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MatheusChiodi&style=flat-square&color=FF5555)
-![Followers](https://img.shields.io/github/followers/MatheusChiodi?style=flat-square&color=FF5555&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=JvFortunato&style=flat-square&color=94A3B8)
+![Followers](https://img.shields.io/github/followers/JvFortunato?style=flat-square&color=94A3B8&labelColor=1a1a2e)
 
 </div>
 
