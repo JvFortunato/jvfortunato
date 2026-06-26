@@ -57,7 +57,7 @@ const joaoVictor = {
 
 <div align="center">
 
-| Applications created | Projects and participations |
+| Apps criados | Projetos e participações |
 |:---:|:---:|
 | **4+** | **15+** |
 | Builds | Web & Mobile |
@@ -72,9 +72,9 @@ const joaoVictor = {
 
 > Todos os sistemas foram cirados com **PHP** + **Bootstrap**
 
-| Project | Stack | Link |
+| Projeto | Stack | Link |
 |:--------|:------|:----:|
-| **Vem Marcar!** - Gerenciador de agendas para prestadores de serviços | PHP, Bootstrap | [Demo](https://vemmarcar.com.br/) |
+| **Vem Marcar!** - Gerenciador de agendas para prestadores de serviços | PHP, Bootstrap |  |
 | **Pousada Parnaioca** - Sistema para gerenciamento de hotelaria | PHP, Bootstrap |  |
 
 <br/>
@@ -89,11 +89,12 @@ const joaoVictor = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JvFortunato&bg_color=0d1117&color=94A3B8&line=94A3B8&point=ffffff&area=true&area_color=94A3B8&hide_border=true"/>
 
-</div>
-
 ---
+<div align="center">
 
 **"Transformando ideias em código e código em soluções."**
+
+</div>
 
 <br/>
 
